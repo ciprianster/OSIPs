@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 # Script: osips.py
-# Purpose: Assignment 3 for COMP47630 - OSINT - Collection & Analysis (Jan 2021)
-#           Collect IP addresses from a folder and check them against TOR, WhoIs and location
+# Purpose:  Collect IP addresses from a folder and check them against TOR, WhoIs and location
 #           Export files with details (csv and json), file with index (csv) and file with locations (kml)
 # Created by: Ciprian Lazar
-# Student no: 19202320
 
 #import region
 import ipaddress
